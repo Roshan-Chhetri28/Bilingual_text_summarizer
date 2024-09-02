@@ -29,8 +29,8 @@ The Bilingual Text Summarizer is a machine learning project that focuses on summ
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/Roshan-Chhetri28/Bilangular_text_summarizer.git
-   cd Bilangular_text_summarizer
+   git clone https://github.com/Roshan-Chhetri28/Bilingual_text_summarizer.git
+   cd Bilingual_text_summarizer
    ```
 
 2. Set up a virtual environment (optional but recommended):
