@@ -1,0 +1,12 @@
+Datasets
+summarizerv
+model
+bilingual_model
+.ipynb_checkpoints
+model/spiece.model
+model/model.safetensors
+Datasets/samsum_dataset
+Datasets/combined_data.csv 
+Datasets/samsum-test.csv 
+Datasets/samsum-train.csv 
+Datasets/samsum-validation.csv
